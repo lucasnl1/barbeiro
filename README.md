@@ -134,10 +134,5 @@ npx react-native link @react-native-community/geolocation
   <p>
     Contribuições são bem-vindas! Se você deseja contribuir para este projeto, sinta-se à vontade para enviar um pull request.
   </p>
-  
-  <h2>Licença</h2>
-  <p>
-    Autor: Lucas Nascimento ₢
-  </p>
 </body>
 </html>
