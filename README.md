@@ -10,7 +10,10 @@
   <p>
     O React Native Barber App é um aplicativo para marcação de horários e localização de barbeiros. Ele permite aos usuários visualizar barbeiros disponíveis próximos a eles, ler comentários e avaliações sobre os barbeiros, bem como agendar horários para serviços de barbearia.
   </p>
-  
+   <h2>Desenvolvimento</h2>
+  <p>
+    Aqui utilizei react-native para criação do aplicativo, para autenticação de login/logon utilizei o firebase e firestore para acelaerar no desenvolvimento e funcionalidades, podendo ser alterado para utilização de API's e bancos de dados locais.
+  </p>
   <h2>Instalação</h2>
   <p>
     Para instalar as dependências necessárias, siga as etapas abaixo:
